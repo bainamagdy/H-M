@@ -40,7 +40,7 @@ const Footer = () => {
                     <Link href="#" text="بطاقة الهدايا الإلكترونية" />
                 </ul>
             </div>
-            <div className="flex flex-col gap-5 w-[255px] lg:mr-auto">
+            <div className="flex flex-col gap-5 w-[255px] xl:mr-auto">
                 <h3>تواصل معنا</h3>
                 <p>
                     كن أول المطلعين على التشكيلات الجديدة و العروض الحصرية
@@ -58,7 +58,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="w-full flex flex-col items-center justify-center text-xs gap-2">
-                <h3>خدمة العملاء</h3>
+                <h3 className="font-bold">خدمة العملاء</h3>
                 <p>مصر 24803822-02</p>
                 <p>
                     أوقات العمل أيام السبت إلى الخميس من الساعة 9 صباحاً إلى 10

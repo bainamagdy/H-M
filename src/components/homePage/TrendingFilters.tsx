@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const TrendingFilters = () => {
-    const [filter, setFilter] = useState("الرجال");
+    const [filter, setFilter] = useState("الاطفال");
     const Filters = [
         { name: "النساء" },
         { name: "الاطفال" },
